@@ -1,7 +1,11 @@
-# SudokuPro
+# Pac-Boy
 
-This is the project of the Poseidon group for LBYCPA1!
+Similar to the well-known Pac-Man game, Pac-Boy is an action labyrinth pursuit game in which the user directs the titular figure through a confined maze. The aim of the game is to consume every dot scattered across the maze while dodging Pac-Man's pursuers, four ghosts. The player moves on to the next level when Pac-Man consumes all of the dots. Fruit symbols at the bottom of the screen represent levels.
 
-This project will be revolving around a Sudoku game and this game will also allow the user to modify the level of difficulty to their preferences.
+Additional Features will include:
+- Maze Variations
+- Boss Battles
+- Time Trials, and
+- Power-Ups
 
-The Sudoku game will have a full-blown user interface as well! This includes settings, themes, and many more details that may be modified.
+Further updates will be posted here once the developers get started!
