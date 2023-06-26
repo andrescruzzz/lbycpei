@@ -13,7 +13,6 @@ Additional Features will include:
 
 to give the user a unique experience drifted away from the traditional Pac-Man game played all over the world!
 
-
 Further updates will be posted here once the developers get started!
 
 References:
