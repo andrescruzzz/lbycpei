@@ -10,6 +10,7 @@ Additional Features will include:
 - Maze Variations
 - Time Trials, and
 - Power-Ups
+
 to give the user a unique experience drifted away from the traditional Pac-Man game played all over the world!
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 Further updates will be posted here once the developers get started!
