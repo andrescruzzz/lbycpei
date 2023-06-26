@@ -15,3 +15,11 @@ to give the user a unique experience drifted away from the traditional Pac-Man g
 
 
 Further updates will be posted here once the developers get started!
+
+References:
+1. Video Games Industry Levels up in Fight Against Climate Change (https://www.unep.org/news-and-stories/press-release/video-games-industry-levels-fight-against-climate-change)
+  Source: Rukikaire, K. (2019, September 23). Video games industry levels up in fight against climate change. UN Environment. https://www.unep.org/news-and-stories/press-release/video-games-industry-levels-fight-against-climate-change
+2. Addressing the Sustainable Development Goals Through Packaging: SDG 12, Sustainable Production & Consumption (https://greenblue.org/addressing-the-sustainable-development-goals-through-packaging-sdg-12-sustainable-production-consumption/)
+  Source: Addressing the Sustainable Development Goals through Packaging: SDG 12, Sustainable Production & Consumption | GreenBlue. (n.d.). Greenblue.org. https://greenblue.org/addressing-the-sustainable-development-goals-through-packaging-sdg-12-sustainable-production-consumption/
+3. Waste Management: Why and How Should Organizations Improve Their Practice (https://www.pro-sapien.com/blog/waste-management-why-how-should-organizations-improve-practice/)
+  Source: Rekosuo, T. (2018, May 15). Waste Management: Why and How Should Organizations Improve Their Practice. Pro-Sapien - EHS Software on SharePoint. https://www.pro-sapien.com/blog/waste-management-why-how-should-organizations-improve-practice/
