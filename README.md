@@ -26,4 +26,6 @@ References:
    Source: Katz, D. (2018, May 18). Picking up litter: Pointless exercise or powerful tool in the battle to beat plastic pollution?. UN Environment. https://www.unep.org/news-and-stories/story/picking-litter-pointless-exercise-or-powerful-tool-battle-beat-plastic
 5. UN and Sony PlayStation team up with new virtual experience to raise gamers’ awareness of climate change(https://www.unep.org/news-and-stories/press-release/un-and-sony-playstation-team-new-virtual-experience-raise-gamers)
    Source: Salem. J. (2020, June 29). UN and Sony PlayStation team up with new virtual experience to raise gamers’ awareness of climate change. UN Environment. https://www.unep.org/news-and-stories/press-release/un-and-sony-playstation-team-new-virtual-experience-raise-gamers
+6. Gaming Green: The Educational Potential of Eco – A Digital Simulated Ecosystem (https://www.frontiersin.org/articles/10.3389/fpsyg.2019.02846/full)
+   Source: Fjællingsdal K., Klöckner C. (2019 December 19). Gaming Green: The Educational Potential of Eco – A Digital Simulated Ecosystem. Sec. Environmental Psychology. https://www.frontiersin.org/articles/10.3389/fpsyg.2019.02846/full
    
