@@ -22,3 +22,8 @@ References:
   Source: Addressing the Sustainable Development Goals through Packaging: SDG 12, Sustainable Production & Consumption | GreenBlue. (n.d.). Greenblue.org. https://greenblue.org/addressing-the-sustainable-development-goals-through-packaging-sdg-12-sustainable-production-consumption/
 3. Waste Management: Why and How Should Organizations Improve Their Practice (https://www.pro-sapien.com/blog/waste-management-why-how-should-organizations-improve-practice/)
   Source: Rekosuo, T. (2018, May 15). Waste Management: Why and How Should Organizations Improve Their Practice. Pro-Sapien - EHS Software on SharePoint. https://www.pro-sapien.com/blog/waste-management-why-how-should-organizations-improve-practice/
+4. Picking up litter: Pointless exercise or powerful tool in the battle to beat plastic pollution?(https://www.unep.org/news-and-stories/story/picking-litter-pointless-exercise-or-powerful-tool-battle-beat-plastic)
+   Source: Katz, D. (2018, May 18). Picking up litter: Pointless exercise or powerful tool in the battle to beat plastic pollution?. UN Environment. https://www.unep.org/news-and-stories/story/picking-litter-pointless-exercise-or-powerful-tool-battle-beat-plastic
+5. UN and Sony PlayStation team up with new virtual experience to raise gamers’ awareness of climate change(https://www.unep.org/news-and-stories/press-release/un-and-sony-playstation-team-new-virtual-experience-raise-gamers)
+   Source: Salem. J. (2020, June 29). UN and Sony PlayStation team up with new virtual experience to raise gamers’ awareness of climate change. UN Environment. https://www.unep.org/news-and-stories/press-release/un-and-sony-playstation-team-new-virtual-experience-raise-gamers
+   
