@@ -15,6 +15,9 @@ to give the user a unique experience drifted away from the traditional Pac-Man g
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 Further updates will be posted here once the developers get started!
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+Group Leader: LIM, Curt Ethan
+Group Members: CRUZ, Jose Andres A., TAN, Cielbert I.
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 References:
 1. Video Games Industry Levels up in Fight Against Climate Change (https://www.unep.org/news-and-stories/press-release/video-games-industry-levels-fight-against-climate-change)
   Source: Rukikaire, K. (2019, September 23). Video games industry levels up in fight against climate change. UN Environment. https://www.unep.org/news-and-stories/press-release/video-games-industry-levels-fight-against-climate-change
