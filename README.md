@@ -11,7 +11,8 @@ Additional Features will include:
 
 to give the user a unique experience drifting away from the traditional Pac-Man game played all over the world!
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________
-Further updates will be posted here once the developers get started!
+YouTube Link to Video Demonstration:
+https://youtu.be/iO9MZAMBt8I
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 Group Leader: LIM, Curt Ethan
 Group Members: CRUZ, Jose Andres A., TAN, Cielbert I.
